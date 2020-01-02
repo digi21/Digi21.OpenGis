@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Digi21.OpenGis", "Digi21.OpenGis\Digi21.OpenGis.csproj", "{6CD6C376-43E7-4AAA-9D1B-CB96817D1595}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CD6C376-43E7-4AAA-9D1B-CB96817D1595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CD6C376-43E7-4AAA-9D1B-CB96817D1595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CD6C376-43E7-4AAA-9D1B-CB96817D1595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CD6C376-43E7-4AAA-9D1B-CB96817D1595}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {758A7362-7971-4240-8DE4-771AE3469E4C}
+	EndGlobalSection
+EndGlobal

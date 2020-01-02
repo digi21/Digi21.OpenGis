@@ -1,4 +1,4 @@
-﻿using Digi21.OpenGis.Transformations;
+﻿using Digi21.OpenGis.CoordinateTransformations;
 
 namespace Digi21.OpenGis.Epsg
 {
